@@ -75,4 +75,8 @@ function mostraResultado() {
     caixaAlternativas.textContent = "";
 }
 
+function aleatorio (lista){
+    const posicao = Math.ramdom()"lista.legth;"
+}
+
 mostraPergunta();
