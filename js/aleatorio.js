@@ -1,0 +1,1 @@
+const nomes = [Thomas, Eduarda, Vitoria, Antonella, apollo,saimon];
